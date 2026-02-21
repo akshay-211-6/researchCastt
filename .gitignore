@@ -24,7 +24,8 @@ dist-ssr/
 uploads/
 outputs/
 audio_assets/*.mp3
-!audio_assets/background_music.mp3
+!audio_assets/background_music*
+test_fallback.mp3
 backend_log.txt
 test_parser.py
 repro_error.py
